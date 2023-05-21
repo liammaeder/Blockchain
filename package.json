@@ -1,5 +1,34 @@
 {
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "crypto-js": "^4.1.1"
-  }
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "name": "blockchain",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shelley2212/Blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shelley2212/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Shelley2212/Blockchain#readme"
 }
